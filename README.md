@@ -32,7 +32,7 @@ The term “core functionality” means the primary features and functions of so
 <h3>SECTION 4. PROHIBITIONS.</h3>
 No provider shall change the terms of use or core functionality of software or services after purchase without express consent from the consumer.
 Any changes to terms of use or core functionality must be clearly communicated to the consumer, with a detailed explanation of the changes and their potential impact on the consumer.
-<h3></h3>SECTION 5. ENFORCEMENT.</h3>
+<h3>SECTION 5. ENFORCEMENT.</h3>
 The Federal Trade Commission (FTC) shall enforce the provisions of this Act.
 Any provider found in violation of this Act shall be subject to penalties, including fines and mandatory compensation to affected consumers.
 <h3>SECTION 6. IMPLEMENTATION.</h3>
